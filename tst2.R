@@ -2,7 +2,7 @@
 ?read.csv
 
 viagens <- read.csv(
-  file = "D:/LEONARDO/Bootcamp/Curso de R/dataset/viagens-2020/2020_Viagem.csv",
+  file = "D:/2020_Viagem.csv",
   sep = ';',
   dec = ','
 )
