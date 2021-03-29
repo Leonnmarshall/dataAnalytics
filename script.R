@@ -5,7 +5,7 @@ library(dplyr)
 ?read.csv
 
 viagens <- read.csv(
-  file = "D:/Léo/Bootcamp/Curso de R/dataset/2019_Viagem.csv",
+  file = "/2019_Viagem.csv",
   sep = ';',
   dec = ','
 )
